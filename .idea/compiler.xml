@@ -7,8 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="shopping_common" />
+        <module name="shopping_product" />
         <module name="shopping_order" />
         <module name="shopping_member" />
+        <module name="shopping_ware" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

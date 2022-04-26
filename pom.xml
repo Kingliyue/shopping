@@ -13,6 +13,8 @@
         <module>shopping_common</module>
         <module>shopping_member</module>
         <module>shopping_order</module>
+        <module>shopping_product</module>
+        <module>shopping_ware</module>
     </modules>
 
 
